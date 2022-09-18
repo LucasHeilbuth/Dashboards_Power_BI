@@ -1,2 +1,2 @@
-# Dashboards_Power_BI
-Dashboards that i made in Power BI
+# Dashboards Using Power BI
+Dashboards I made during the Power BI Week of the channel: https://www.youtube.com/c/AprendaPowerBI/videos
